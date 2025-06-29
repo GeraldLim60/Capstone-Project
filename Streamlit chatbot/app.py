@@ -1,5 +1,5 @@
 # Bash these in terminal to run the app
-
+# streamlit run app.py
 
 import os
 import json
